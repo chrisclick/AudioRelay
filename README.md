@@ -26,7 +26,7 @@ Those sources feed one outgoing stereo mix that can be selected in Zoom or anoth
 
 ## My contribution
 
-I conceived Imaging Relay after running into the rdifficulty sharing live Pro Tools audio during remote sessions.
+I conceived Imaging Relay after running into the difficulty sharing live Pro Tools audio during remote sessions.
 
 I defined the workflow, product requirements, interaction model, and audio behavior, then developed the prototype through an AI-assisted process. I tested each iteration in real Pro Tools, Apollo, and Zoom workflows and continued refining the product as routing, performance, permissions, and usability issues surfaced.
 
