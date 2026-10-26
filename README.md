@@ -68,11 +68,9 @@ Those sources are mixed locally into a stereo relay feed and sent to **virtual s
 
 The main view makes live DAW/audio sharing controllable from one simple interface.
 
-### Analyzer view
+### Optional analyzer
 
-![Analyzer view](images/imaging-relay-analyzer.png)
-
-An optional analyzer adds loudness, peak, spectrum, and stereo-field information without placing those controls in the default workflow.
+An optional analyzer adds loudness, peak, spectrum, and stereo-field information without placing those controls in the default workflow. An illustration of this feature appears in the [personal-site project story](https://github.com/chrisclick/chrisclick-site/blob/main/projects/imaging-relay.html).
 
 ### Compact mode
 
